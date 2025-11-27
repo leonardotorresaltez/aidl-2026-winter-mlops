@@ -3,3 +3,7 @@ numpy
 Pillow
 torch
 ray
+pandas==2.0.3
+kagglehub
+torchvision
+ray[tune]
